@@ -1,6 +1,6 @@
 Trello da organização do projeto: https://trello.com/b/ZbLs6UoK/finapi
 
-##Requisitos
+## Requisitos
 [x] Deve ser possível criar uma conta
 [] Deve ser possível buscar o extrato bancário do cliente
 [] Deve ser possível realizar um depósito
@@ -10,7 +10,7 @@ Trello da organização do projeto: https://trello.com/b/ZbLs6UoK/finapi
 [] Deve ser possível obter dados da conta do cliente
 [] Deve ser possível deletar uma conta
 
-##Regras de negócio
+## Regras de negócio
 [x] Não deve ser possível cadastrar uma conta com CPF já existente
 [] Não deve ser possível fazer depósito em uma conta não existente
 [] Não deve ser possível buscar extrato em uma conta não existente
