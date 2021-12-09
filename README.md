@@ -16,7 +16,9 @@ Trello da organização do projeto: https://trello.com/b/ZbLs6UoK/finapi
 
 [x] Deve ser possível obter dados da conta do cliente
 
-[] Deve ser possível deletar uma conta
+[x] Deve ser possível deletar uma conta
+
+[x] Deve ser possivel retornar o balance
 
 ## Regras de negócio
 
@@ -30,4 +32,4 @@ Trello da organização do projeto: https://trello.com/b/ZbLs6UoK/finapi
 
 [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 
-[] Não deve ser possível excluir uma conta não existente
+[x] Não deve ser possível excluir uma conta não existente
