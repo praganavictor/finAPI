@@ -12,9 +12,9 @@ Trello da organização do projeto: https://trello.com/b/ZbLs6UoK/finapi
 
 [x] Deve ser possível buscar o extrato bancário do cliente por data
 
-[] Deve ser possível atualizar dados da conta do cliente
+[x] Deve ser possível atualizar dados da conta do cliente
 
-[] Deve ser possível obter dados da conta do cliente
+[x] Deve ser possível obter dados da conta do cliente
 
 [] Deve ser possível deletar uma conta
 
